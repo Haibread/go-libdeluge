@@ -23,7 +23,7 @@ import (
 	"os"
 	"strings"
 
-	delugeclient "github.com/gdm85/go-libdeluge"
+	delugeclient "github.com/Haibread/go-libdeluge"
 )
 
 var (
